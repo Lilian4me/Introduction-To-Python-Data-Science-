@@ -1,5 +1,5 @@
 # Introduction To Python 
-# Python is a
+# Python 
 •	general purpose programming language
 •	interpreted, not compiled
 •	both dynamically typed and strongly typed
@@ -12,13 +12,23 @@ ________________________________________
 •	This gives us much more power and flexibility
 ________________________________________
 •	CHAPTER 1 - Python Basics
-#	Strings - Creating a String, variable assignments - String Indexing & Slicing - String Concatenation & Repetition - Basic Built-in String Methods
-#	Numbers - Types of Numbers - Basic Arithmetic
-•	CHAPTER 2 - Data Types & Data Structures
-#	Lists
-#	Dictionaries
-#	Sets & Booleans
-•	CHAPTER 3 - Python Programming Constructs
-#	Loops & Iterative Statements - if,elif,else statements - for loops, while loops
-#	Exception Handling
+#	Strings
+- Creating a String, variable assignments
+- String Indexing & Slicing
+- String Concatenation & Repetition
+- Basic Built-in String Methods
+#	Numbers
+- Types of Numbers
+- Basic Arithmetic
+•	CHAPTER 2
+- Data Types & Data Structures
+-	Lists
+- Dictionaries
+- Sets & Booleans
+•	CHAPTER 3
+- Python Programming Constructs
+- Loops & Iterative Statements
+- if,elif,else statements -
+- for loops, while loops
+- Exception Handling
 
