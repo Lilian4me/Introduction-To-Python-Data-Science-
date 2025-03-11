@@ -1,5 +1,5 @@
 # Introduction To Python 
-<img src="images/python-logo.png" alt="Python" style="width: 500px;"/>
+
 # Python 
 •	general purpose programming language
 •	interpreted, not compiled
