@@ -22,8 +22,7 @@ ________________________________________
 - Sets & Booleans
   
 •	CHAPTER 3 - Python Programming Constructs
-- Loops & Iterative Statements
-- if,elif,else statements -
-- for loops, while loops
+- Loops & Iterative Statements - if,elif,else statements - - for loops, while loops
+- Modules, Packages
 - Exception Handling
 
