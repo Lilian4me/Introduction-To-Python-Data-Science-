@@ -15,10 +15,12 @@ ________________________________________
 •	CHAPTER 1 - Python Basics
 -	Strings - Creating a String, variable assignments - String Indexing & Slicing - String Concatenation & Repetition - Basic Built-in String Methods
 - Numbers - Types of Numbers - Basic Arithmetic
+  
 •	CHAPTER 2 - Data Types & Data Structures
 -	Lists
 - Dictionaries
 - Sets & Booleans
+  
 •	CHAPTER 3 - Python Programming Constructs
 - Loops & Iterative Statements
 - if,elif,else statements -
